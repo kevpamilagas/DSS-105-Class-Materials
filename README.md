@@ -13,8 +13,7 @@ Course materials for **DSS-105: Data Science with Python**, taught at the Air Fo
 | Block 5 | Pandas and Data Files |
 | Block 6 | Pivot Tables in Python |
 | Block 7 | Visualization in Python |
-| Block 8 | Web Scraping |
-| Block 9 | Regression Modeling |
+| Block 8 | Regression Modeling |
 
 Each block folder contains a student notebook (empty, for following along in class) and a corresponding exercise notebook for independent practice.
 

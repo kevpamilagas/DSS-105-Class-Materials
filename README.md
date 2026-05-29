@@ -14,8 +14,9 @@ Course materials for **DSS-105: Data Science with Python**, taught at the Air Fo
 | Block 6 | Pivot Tables in Python |
 | Block 7 | Visualization in Python |
 | Block 8 | Regression Modeling |
+| Block 9 | Generative AI Capstone |
 
-Each block folder contains a student notebook (empty, for following along in class) and a corresponding exercise notebook for independent practice.
+Blocks 1–8 each contain a student notebook (empty, for following along in class) and a corresponding exercise for independent practice. Block 9 is the capstone: a guided prompt notebook in which students recreate the Block 5–8 workflow using GenAI.mil, paired with the cleaned dataset and a data dictionary.
 
 ## Getting Started
 
